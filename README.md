@@ -3,13 +3,15 @@
 
 ![Profile Banner](https://ibb.co/37HYF5k)
 
+---
+
 👋 Hello! I'm Rifat Ahsan Pulok, a passionate CSE student from the vibrant tech hub of United International University (UIU) in Bangladesh. 🇧🇩
 
 ---
 
 ## 🚀 About Me
 
-💻 **Coding**: Coding isn't just a hobby for me; it's a way of life. Whether it's unraveling the mysteries of algorithms, crafting elegant code, or diving into the world of software development, I'm always up for the challenge. 🚀
+💻 **Coding**: Coding isn't just a hobby for me; it's a way of life. Whether it's unraveling the mysteries of algorithms, crafting elegant code, or diving into the world of software development, I'm always up for the challenge.
 
 🎓 **Education**: I'm currently pursuing my dreams of becoming a top-notch computer scientist and engineer at UIU, where I'm gaining the knowledge and skills needed to thrive in the ever-evolving tech landscape.
 
